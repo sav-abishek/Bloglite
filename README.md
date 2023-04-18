@@ -1,4 +1,19 @@
-# Bloglite
+# Bloglite: Snapshot of the application
+## Landing page - Login/Register
+![image](https://user-images.githubusercontent.com/90550267/232662994-2de8522b-1e2d-468e-ace2-8f5969176efb.png)
+
+## Homepage/Dashboard
+![image](https://user-images.githubusercontent.com/90550267/232662981-b5c8883b-a76a-4124-8782-03ba78ff3078.png)
+
+## My-profile Page
+![image](https://user-images.githubusercontent.com/90550267/232662952-44df1ebe-0906-4c5c-b3e2-8ef1b2129a5e.png)
+
+## Searching and engaging with other users
+![image](https://user-images.githubusercontent.com/90550267/232662945-b5cb0e48-09d5-4447-9693-472d1eaa2745.png)
+
+------------------------------------------------------------------------------------------------------------------
+
+# Run the application 
 
 ## To run the backend:
 ```
@@ -56,4 +71,7 @@ celery -A app.celery beat --max-interval 2 -l INFO
 
 - Check your system architecture and download the appropriate version from the [Mailhog repo releases](https://github.com/mailhog/MailHog/releases/v1.0.0)
 - run the .exe file to start a local mailhog server
+
+
+
 
