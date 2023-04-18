@@ -51,3 +51,9 @@ celery -A app.celery worker -l info
 celery -A app.celery beat --max-interval 2 -l INFO
 // --max-interval : maximum interval to check for beat updates
 ```
+
+### terminal #4 - Mailhog server
+```
+// Check your system architecture and download the appropriate version from the [Mailhog repo releases](https://github.com/mailhog/MailHog/releases/v1.0.0)
+// run the .exe file to start a local mailhog server
+```
