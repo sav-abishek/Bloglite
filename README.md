@@ -53,7 +53,7 @@ celery -A app.celery beat --max-interval 2 -l INFO
 ```
 
 ### terminal #4 - Mailhog server
-```
-// Check your system architecture and download the appropriate version from the [Mailhog repo releases](https://github.com/mailhog/MailHog/releases/v1.0.0)
-// run the .exe file to start a local mailhog server
-```
+
+- Check your system architecture and download the appropriate version from the [Mailhog repo releases](https://github.com/mailhog/MailHog/releases/v1.0.0)
+- run the .exe file to start a local mailhog server
+
